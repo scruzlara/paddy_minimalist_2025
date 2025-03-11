@@ -9,6 +9,7 @@ class HuggingFaceService {
   //final String apiUrl = 'https://europython2022-paddy-disease-classification.hf.space/api/predict';
   final String apiUrl =
       'https://scruzlara-paddy-disease-classification.hf.space/api/predict';
+  //final String apiUrl = 'https://fcakyon-yolov8-segmentation.hf.space/run/predict';
 
   // Generate a random session hash
   String _generateSessionHash() {

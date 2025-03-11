@@ -1,0 +1,2 @@
+/Users/cruzlara5/Enseignement/2024-2025/Informatique/BUT/S6/AppDévMobile/paddy_disease_min_2025/android/app/.cxx/Debug/m20725h4/x86_64/CMakeFiles/edit_cache.dir
+/Users/cruzlara5/Enseignement/2024-2025/Informatique/BUT/S6/AppDévMobile/paddy_disease_min_2025/android/app/.cxx/Debug/m20725h4/x86_64/CMakeFiles/rebuild_cache.dir
